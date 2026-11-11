@@ -1,3 +1,5 @@
+> **Repository migrated:** Active development and independent `aiogram-kit` releases now live in [aiogram-kit](https://github.com/ArmanAvanesyan/aiogram-kit/tree/main/packages/aiogram-kit). Historical PRs, releases and assets remain here. See the [migration map](https://armanavanesyan.github.io/aiogram-kit/legacy-links/).
+
 # aiogram-kit
 
 [![PyPI](https://img.shields.io/pypi/v/aiogram-kit.svg)](https://pypi.org/project/aiogram-kit/)
